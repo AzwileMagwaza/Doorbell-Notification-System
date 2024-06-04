@@ -62,7 +62,7 @@ Once you have set up your Raspberry Pi, proceed with the installation and config
 
 
 ## Authors
-
+- These are all of my University classmate that i worked with to create this project
 - Yanga Rubushe
 - Sibusiso Goodwell Skhosana
 - Azwile Magwaza 
